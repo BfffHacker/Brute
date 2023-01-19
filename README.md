@@ -8,7 +8,7 @@ $ pkg install play-audio
 $ pip install requests mechanize
 $ pip install rich bs4
 $ pip install --upgrade pip
-$ git clone https://github.com/Al-Vino/cracking5
+$ git clone https://github.com/BfffHacker/Brute.git
 $ ls ( L kecil )
-$ cd cracking5
-$ python son.py
+$ cd brute
+$ python brute.py
