@@ -10,5 +10,5 @@ $ pip install rich bs4
 $ pip install --upgrade pip
 $ git clone https://github.com/BfffHacker/Brute.git
 $ ls ( L kecil )
-$ cd brute
-$ python brute.py
+$ cd Brute
+$ python Brute.py
